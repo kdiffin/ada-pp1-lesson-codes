@@ -8,4 +8,4 @@ every week has its own code under it's own folder.
 
 ## misc:
 
-Makefile probably isnt updated
+to run the programs easily you can use the `Makefile` file with `make` if you know how that works. if you dont know how `make` works you can honestly just chatgpt it its not that hard.
