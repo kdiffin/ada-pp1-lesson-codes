@@ -1,3 +1,4 @@
+
 #include <math.h>
 #include <stdio.h>
 
@@ -16,17 +17,16 @@
 //
 // scanf takes in the address of a variable and assigns whatever you typed into ti 
 int main(void) {
-    double n = 2.1;
+    double r;
+    const double PI = 3.1415;
 
-    scanf("enter ur number (float please): %lf", &n);
 
+    printf("enter the circles radius please: ");
+    scanf("%lf", &r);
 
-    printf("square root of %.1lf is %.15lf\n", n, sqrt(n));
-    printf("square of %lf = %lf\n", n, pow(n, 2));
-    printf("round of %lf = %lf\n", n, round(n));
-    printf("ciel of %lf = %lf\n", n, ciel(n));
-    printf("floor of %lf = %lf\n", n, floor(n));
-
+    printf("you entered in radius: %lf\n", r);
+    printf("the area of the circle is %lf\n", pow(r,2)*PI);
+    printf("the length of the circle is %lf\n", 2*r*PI);
 
     return 0;
 }
