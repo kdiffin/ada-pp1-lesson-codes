@@ -4,7 +4,10 @@
   <img width="150" height="150" alt="Animated pixel-art Hatsune Miku" src="imgs/miku-transparent.gif" align="right" />
 </a>
 
-hello;
+```c
+
+printf("hello world");
+```
 
 these are the [programs](https://en.wikipedia.org/wiki/Computer_program) we wrote in our programming principles I class at [ADA University](https://www.ada.edu.az/en/schools/site).
 
