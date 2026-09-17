@@ -20,7 +20,7 @@ vibe coding is fun. [check out an elden ring inspired game that I vibe coded in 
 
 but it simply does not teach you anything. you are only interacting with a _paid service_ offered by a _company_.
 
-## structure | how to test code quickly
+## structure & how to test code quickly
 
 `make week-2-math` as an example runs the `math.c` file under the `week-2/` folder
 
