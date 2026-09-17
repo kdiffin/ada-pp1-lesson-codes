@@ -8,7 +8,7 @@ int main(void) {
     printf("%d\n equal to 18: ", age == 18); // This will print 1 because age is equal to 18
     printf("%d\n greater than or equal to 18: ", age >= 18); // This will print 1 because age is greater than or equal to 18
     printf("%d\n less than or equal to 18: ", age <= 18); // This will print 1 because age is less than or equal to 18
-    printf("%d\n not equal to 18: ", age != 18); // This will print 0 because age is not equal to 18
+    printf("%d\n not equal to 18: \n", age != 18); // This will print 0 because age is not equal to 18
     // so, 0 is FALSE and 1 is TRUE
 
     // if,elif,else statement
