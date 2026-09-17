@@ -24,7 +24,7 @@ int main(void) {
     printf("square root of %.1lf is %.15lf\n", n, sqrt(n));
     printf("square of %lf = %lf\n", n, pow(n, 2));
     printf("round of %lf = %lf\n", n, round(n));
-    printf("ciel of %lf = %lf\n", n, ciel(n));
+    printf("ceil of %lf = %lf\n", n, ceil(n));
     printf("floor of %lf = %lf\n", n, floor(n));
 
 
