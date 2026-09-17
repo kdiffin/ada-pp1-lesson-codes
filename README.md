@@ -41,7 +41,7 @@ simply send an email and ask to become a contributor `dibrahim19352@ada.edu.az`;
 
 or [fork](https://docs.github.com/en/pull-requests/how-tos/work-with-forks/fork-a-repo) the [repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) and submit a [pull request](https://docs.github.com/en/pull-requests/reference/pull-requests);
 
-![imgs/screenshot-3492567f5ef6ec81083ae6e2003964f0.png](imgs/screenshot-3492567f5ef6ec81083ae6e2003964f0.png)
+![imgs/screenshot-1662177eb8173df9ac76799e4b46c575.png](imgs/screenshot-1662177eb8173df9ac76799e4b46c575.png)
 
 **do not force push or do destructive git operations please. Rebase responsibly**;
 
