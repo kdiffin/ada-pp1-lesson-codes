@@ -5,7 +5,6 @@
 </a>
 
 ```c
-
 printf("hello world");
 ```
 
@@ -15,23 +14,21 @@ these codes were written in reference to Minura Hajisoy's PP1 CRN in 2026 fall s
 
 if you have any questions regarding the course itself, **please refer to the syllabus**.
 
-## before you start
+## structure & how to test code quickly
+
+the code we wrote per academic week are stored in their respective folders.
+
+if you want to run a program fast without hastling with [gcc](https://gcc.gnu.org/), use the commands in the [makefile](https://makefiletutorial.com/).
+
+`make week-2-math` as an example runs the `math.c` file under the `week-2/` folder
+
+## other notes
 
 do not vibe code or cheat on your assignments. [see why here](https://htmx.org/essays/yes-and/).
 
 vibe coding is fun. [check out an elden ring inspired game that I vibe coded in one prompt using gpt 6 astra low](https://ashen-oath-bay.vercel.app/).
 
 but it simply does not teach you anything. you are only interacting with a _paid service_ offered by a _company_.
-
-## structure & how to test code quickly
-
-`make week-2-math` as an example runs the `math.c` file under the `week-2/` folder
-
-a week folder contains the programs written in our classroom during the week
-
-if you want to run a program fast without hastling with gcc, use the commands in the [makefile](https://makefiletutorial.com/)
-
-they are structured as stated above -> `week-n-[program-file-name]` (OMIT THE .C EXTENSION)
 
 ## contributors
 
