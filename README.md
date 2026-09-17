@@ -36,7 +36,7 @@ they are structured as follows -> `week-n-[program-file-name]` (OMIT THE .C EXTE
 
 huge thanks to Minura Hajisoy for her lessons and the example code
 
-## how to contribute;
+## how to contribute
 
 simply send an email and ask to become a contributor `dibrahim19352@ada.edu.az`
 
