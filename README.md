@@ -1,38 +1,36 @@
 # ada programming principles 1 code exmaples
 
 <a href="https://tenor.com/view/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-%E3%83%89%E3%83%83%E3%83%88-gif-13672364668652587540">
-  <img width="150" height="150" alt="Animated pixel-art Hatsune Miku" src="https://media1.tenor.com/m/vb3_OhKjihQAAAAC/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-%E3%83%89%E3%83%83%E3%83%88.gif" align="right" />
+  <img width="150" height="150" alt="Animated pixel-art Hatsune Miku" src="imgs/miku-transparent.gif" align="right" />
 </a>
 
 hello;
 
-these are the [programs](https://en.wikipedia.org/wiki/Computer_program) we wrote in our programming principles I class at [ADA University](https://www.ada.edu.az/en/schools/site)
+these are the [programs](https://en.wikipedia.org/wiki/Computer_program) we wrote in our programming principles I class at [ADA University](https://www.ada.edu.az/en/schools/site).
 
-these codes were written in reference to Minura Hajisoy's PP1 CRN in 2026 fall sem. (this repo isn't affiliated with her)
+these codes were written in reference to Minura Hajisoy's PP1 CRN in 2026 fall sem. (this repo isn't affiliated with her).
 
-if you have any questions regarding the course itself, **please refer to the syllabus**
+if you have any questions regarding the course itself, **please refer to the syllabus**.
 
 ## before you start
 
-do not vibe code or cheat on your assignments. [see why here](https://htmx.org/essays/yes-and/)
+do not vibe code or cheat on your assignments. [see why here](https://htmx.org/essays/yes-and/).
 
-vibe coding is fun. [check out a game i vibe coded that is inspired by elden ring in one prompt using gpt 6 astra](https://github.com/kdiffin/ashen-oath)
+vibe coding is fun. [check out an elden ring inspired game that I vibe coded in one prompt using gpt 6 astra low](https://ashen-oath-bay.vercel.app/).
 
-but it simply does not teach you anything. you are only interacting with a [paid service](https://chatgpt.com/codex/) offered by a [company](https://openai.com/)
+but it simply does not teach you anything. you are only interacting with a _paid service_ offered by a _company_.
 
 ## structure | how to test code quickly
 
-`make week-2-math` for example runs the `math.c` file under the `week-2/` folder
+`make week-2-math` as an example runs the `math.c` file under the `week-2/` folder
 
-the code is structured into weeks
-
-a week contains the programs written in our classroom during the week
+a week folder contains the programs written in our classroom during the week
 
 if you want to run a program fast without hastling with gcc, use the commands in the [makefile](https://makefiletutorial.com/)
 
-they are structured as follows -> `week-n-[program-file-name]` (OMIT THE .C EXTENSION)
+they are structured as stated above -> `week-n-[program-file-name]` (OMIT THE .C EXTENSION)
 
-## contributors;
+## contributors
 
 [Davud Ibrahim](https://github.com/kdiffin/)
 
