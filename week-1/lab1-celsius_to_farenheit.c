@@ -1,6 +1,7 @@
 // lab1 Celsius -> Farenheit
 
-//& before variable name in scanf is used to pass the address of the variable c to itself, allowing it to store the value directly into that variable.
+//& before variable name in scanf is used to pass the address of the variable c to itself
+// allowing it to store the value directly into that variable.
 
 #include <stdio.h>
 

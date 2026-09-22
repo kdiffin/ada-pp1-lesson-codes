@@ -68,8 +68,13 @@ int main(void) {
         printf("You are a child.\n");
     }
 
-    // if you will input some invalid input for any of the variables, this will still be printed, as it does not depend on any of the variables, it will always be printed at the end of the program
-    // try to input number smaller than 3 for age, and you will see that nothing will be printed for age, but printf below will still be executed
+    // if you will input some invalid input for any of the variables
+    //this will still be printed, as it does not depend on any of the variables
+    //it will always be printed at the end of the program
+
+    // try to input number smaller than 3 for age
+    //and you will see that nothing will be printed for age
+    //but printf below will still be executed
     printf("Thank you for using the program!\n"); 
     return 0;
 }

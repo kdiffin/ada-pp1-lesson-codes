@@ -17,7 +17,8 @@ int main() {
 
     printf("now do it again: ");
     scanf("%c%c", &grade, &gr);
-    printf("You entered: %c and %c\n", grade, gr); //spaces are important, if you don't put a space between the %c's, it will not work as expected
+    printf("You entered: %c and %c\n", grade, gr); 
+    //spaces are important, if you don't put a space between the %c's, it will not work as expected
     
     return 0;
 }

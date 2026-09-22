@@ -5,7 +5,7 @@
 int main(void){
 
     double bill;
-    int people; // people cannot be in a decimal amount lol
+    int people; // people cannot be in a float amount lol
 
     printf("Enter the total bill amount: ");
     scanf("%lf", &bill);
