@@ -1,5 +1,5 @@
-//lab4 - tiny menu with switch
-
+// lab4 - tiny menu with switch
+// for lab3 please refer to if-elif-else.c to 2nd block of code
 #include <stdio.h>
 
 int main(void){

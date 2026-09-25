@@ -1,5 +1,5 @@
-//lab2 - print either num is odd or even
-
+// lab2 - print either num is odd or even
+// for lab3 please refer to if-elif-else.c to 2nd block of code
 #include <stdio.h>
 
 int main(void){
