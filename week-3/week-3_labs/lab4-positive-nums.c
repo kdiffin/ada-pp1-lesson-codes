@@ -1,4 +1,4 @@
-// lab4 - print amount of positive nums
+// lab4 - print amount of positive nums in n length sequence
 
 #include <stdio.h>
 

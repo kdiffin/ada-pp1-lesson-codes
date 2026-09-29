@@ -24,8 +24,8 @@ int main(void){
     // as loops dosent have limitations regarding where you start and where you will end
 
     // only thing is that you need do define start-end of loop precisely
-    // so your loop wouldnt be infinite-looping
-    printf("opposite loop");
+    // so your loop would work as expected and not infinite-looping
+    printf("opposite loop"); 
 
     i = 5;
     while (i > 0)
