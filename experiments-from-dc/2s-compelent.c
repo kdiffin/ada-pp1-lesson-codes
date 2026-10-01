@@ -7,6 +7,7 @@ int main(void){
     printf("%d\n", ++num);
     printf("%d\n", num++);
     printf("%d\n", num+=2);
+    
     // just take a guess what each printf's would show on the screen
     // you thought that they will print 128,128,129?
     // but nah, the thing is that they are CHAR by default
