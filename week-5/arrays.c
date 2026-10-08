@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int n;
+    int n = 0;
     int a[n];
     int z;
     int sum = 0;
@@ -28,7 +28,17 @@ int main(){
     for (int z = 0; z <= n-1; z++){
         printf("a[%d] = %d\n", z, a[z]);
         sum += a[z];
+    }
+
+    float avg = sum/n;
+    int above = 0; 
+    
+    for (int d = 0; d <= n-1; d++){
+        if (a[d] > avg){
+            above++;
+        }
     } 
-    printf("Sum of all nums in your array is: %d", sum);
+    printf("Sum of all nums in your array is: %d\n", sum);
+    printf("amount of nums that higher than the avg in array is: %d\n", above);
     return 0;
 }
